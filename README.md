@@ -1,8 +1,15 @@
 ### Hi there 👋
 
-![image title](https://rushter.com/image.png)
 
+<div style="text-align: center">
+    <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fbrentvollebregt%2Fhit-counter" alt="Hits">
+</div>
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+
+- 📫 How to reach me: ...
+- 💬 Ask me about ...
 <!--
 **jorgermduarte/jorgermduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
