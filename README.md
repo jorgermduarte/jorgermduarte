@@ -3,11 +3,11 @@
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fjorgermduarte%2Fjorgermduarte)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
-- 📫 How to reach me: ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on object storage service that provides data availability, security and performance.
+- 👯 I’m looking to collaborate in any inspiring project that catches my interest.
+- 🌱 I’m currently learning data mining and machine learning.
+- 📫 How to reach me: joka867@hotmail.com
+- 💬 Ask me about anything :) 
 <!--
 **jorgermduarte/jorgermduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
