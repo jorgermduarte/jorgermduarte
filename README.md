@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![image title](https://rushter.com/image.png)
+
+
 <!--
 **jorgermduarte/jorgermduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
