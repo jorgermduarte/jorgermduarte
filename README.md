@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fjorgermduarte%2Fjorgermduarte) Profile views
+![Profile Views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fjorgermduarte%2Fjorgermduarte)
 
 - 🔭 I’m currently working on object storage service that provides data availability, security and performance.
 - 👯 I’m looking to collaborate in any inspiring project that catches my interest.
