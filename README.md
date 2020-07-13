@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![linkedin badge](https://img.shields.io/badge/-Linkedin-blue](https://www.linkedin.com/in/jorge867/)
+[![linkedin badge](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/jorge867/)
 
 - 🔭 I’m currently working on a object storage service that provides data availability, security and performance.
 - 👯 I’m looking to collaborate in any inspiring project that catches my interest.
