@@ -11,5 +11,5 @@
 [![Java Badge](https://img.shields.io/badge/-Java-A9A9A9?style=flat-square&logo=Java&logoColor=black)](Java)
 
 
-- 👯 I’m looking to collaborate in any inspiring project that catches my interest.
+- 🤝 I’m looking to collaborate in any inspiring project that catches my interest.
 - 🌱 I’m currently learning data mining and machine learning.
