@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate in any inspiring project that catches my interest.
 - 🌱 I’m currently learning data mining and machine learning.
 
-[![PHP Badge](https://img.shields.io/badge/-PHP-A9A9A9?style=flat-square&logo=PHP&logoColor=black)](PHP)
 [![nodejs Badge](https://img.shields.io/badge/-Node.js-A9A9A9?style=flat-square&logo=Javascript&logoColor=black)](Node.js)
-[!C# .NET Badge](https://img.shields.io/badge/-.NET-A9A9A9?style=flat-square&logo=Microsoft&logoColor=black)
+[![C# .NET Badge](https://img.shields.io/badge/-C# .NET Badge-A9A9A9?style=flat-square&logo=Javascript&logoColor=black)](C# .NET)
+[![React Badge](https://img.shields.io/badge/-React-A9A9A9?style=flat-square&logo=React&logoColor=black)](React)
+[![PHP Badge](https://img.shields.io/badge/-PHP-A9A9A9?style=flat-square&logo=PHP&logoColor=black)](PHP)
