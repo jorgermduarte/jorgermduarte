@@ -1,5 +1,5 @@
 ### Hi there 👋
-![https://www.linkedin.com/in/jorge867/](https://img.shields.io/badge/Jorge%20Duarte-Linkedin-blue)
+[![https://www.linkedin.com/in/jorge867/](https://img.shields.io/badge/Jorge%20Duarte-Linkedin-blue)](https://www.linkedin.com/in/jorge867/)
 
 - 🔭 I’m currently working on a object storage service that provides data availability, security and performance.
 - 👯 I’m looking to collaborate in any inspiring project that catches my interest.
