@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![linkedin badge](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/jorge867/)
-[![Personal Website](https://img.shields.io/badge/-View%20Website-critical)](https://jorgermduarte.herokuapp.com/)
+[![Personal Website](https://img.shields.io/badge/-View%20Website-critical)](https://jorgeduarte.pt/)
 
 [![nodejs Badge](https://img.shields.io/badge/-Node.js-A9A9A9?style=flat-square&logo=Javascript&logoColor=black)](Node.js)
 [![CSharp Badge](https://img.shields.io/badge/-.NET-A9A9A9?style=flat-square&logo=C%20Sharp&logoColor=black)](CSharp)
@@ -12,4 +12,3 @@
 
 
 - 🤝 I’m looking to collaborate in any inspiring project that catches my interest.
-- 🌱 I’m currently learning data mining and machine learning.
