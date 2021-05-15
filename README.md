@@ -8,20 +8,20 @@
 ```javascript
 const Duarte = {
   Description : [
-            'Optimistic',
-            'Tech enthusiast',
-            'Knowledge hunter',
-            'and a lot more'
+              'Optimistic',
+              'Tech enthusiast',
+              'Knowledge hunter',
+              'and a lot more'
             ],
-  Education : [ 
-           { College: 'Universidade de Aveiro', Year : '2016-2019', course: 'Software Developer' },
-           ],
- Experience : [
-            'Team Leader at BoldApps LDA', 
-            'Full Stack Developer at Edubox SA', 
-            'Backend Developer at SpyFly',
-            'Trainee at Prologica',
-            ]
+    Education : [ 
+                { College: 'Universidade de Aveiro', Year : '2016-2019', course: 'Software Developer' },
+             ],
+   Experience : [
+              'Team Leader at BoldApps LDA', 
+              'Full Stack Developer at Edubox SA', 
+              'Backend Developer at SpyFly',
+              'Trainee at Prologica',
+              ]
 }
 ```
 
@@ -30,7 +30,7 @@ const Duarte = {
 * Front-end development : Bootstrap, EJS, Razor, ASPX, Blazor
 * Backend development : .NET Framework, .NET Core, Node.js
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=jorgermduarte&theme=radical&show_icons=true" alt="Duarte Github Stats" />
 </p>
 
