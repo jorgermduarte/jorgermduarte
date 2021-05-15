@@ -26,7 +26,7 @@ const Duarte = {
 ### My Development Stack
 
 ![image](https://user-images.githubusercontent.com/45755132/118343014-35220380-b51e-11eb-9a6e-e30fc16dd354.png)
-![image](https://user-images.githubusercontent.com/45755132/118343188-57685100-b51f-11eb-9b0c-00f1cd6982b8.png)
+![image](https://user-images.githubusercontent.com/45755132/118343219-7e268780-b51f-11eb-96e9-2528f9aa2c32.png)
 ![image](https://user-images.githubusercontent.com/45755132/118343152-20923b00-b51f-11eb-80dc-46468de9096b.png)
 ![image](https://user-images.githubusercontent.com/45755132/118343054-7f0ae980-b51e-11eb-8598-d7535bcddcc7.png)
 ![image](https://user-images.githubusercontent.com/45755132/118343080-a95ca700-b51e-11eb-89cd-e5272e5e1219.png)
