@@ -26,7 +26,7 @@ const Duarte = {
 }
 ```
 
-<p> My Stack </p>
+### My Stack
 
 ![image](https://user-images.githubusercontent.com/45755132/118343014-35220380-b51e-11eb-9a6e-e30fc16dd354.png)
 ![image](https://user-images.githubusercontent.com/45755132/118343025-54209580-b51e-11eb-9b90-48306d2f7580.png)
