@@ -28,7 +28,6 @@ const Duarte = {
               ]
 }
 ```
-<img src="https://media.giphy.com/media/blSTtZehjAZ8I/giphy.gif" width="300" align="right">
 
 ### My Mother Languages
 
@@ -38,6 +37,7 @@ const Duarte = {
 ![image](https://user-images.githubusercontent.com/45755132/118343054-7f0ae980-b51e-11eb-8598-d7535bcddcc7.png)
 ![image](https://user-images.githubusercontent.com/45755132/118343080-a95ca700-b51e-11eb-89cd-e5272e5e1219.png)
 
+<img src="https://media.giphy.com/media/blSTtZehjAZ8I/giphy.gif" width="300" align="right">
 
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=jorgermduarte&theme=radical&show_icons=true" alt="Duarte Github Stats" />
