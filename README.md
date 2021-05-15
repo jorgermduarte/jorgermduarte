@@ -1,25 +1,15 @@
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-Duarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgermduarte/)](https://www.linkedin.com/in/jorgermduarte/)
 [![Gmail Badge](https://img.shields.io/badge/-jorge_duarte@outlook.pt-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorge_duarte@outlook.pt)](mailto:jorge_duarte@outlook.pt)
 
 <br/>
 
-##### A little knowledge about me
+##### A little about me ..
 
 ```javascript
 const Duarte = {
-  Description : [
-                Leader, Optimistic, 
-                Tech enthusiast  
-                and a lot more ],
-  Education : 
-           [ 
-           { College: Universidade de Aveiro, 
-             Year :2016-2019  }
+  Description : [ Leader, Optimistic, Tech enthusiast and a lot more ],
+  Education : [ 
+           { College: 'Universidade de Aveiro', Year : '2016-2019', course: 'Software Developer' },
            ],
  Experience : [
             'Team Leader at BoldApps LDA', 
