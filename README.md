@@ -12,3 +12,6 @@
 
 
 - 🤝 I’m looking to collaborate in any inspiring project that catches my interest.
+
+
+![image](https://user-images.githubusercontent.com/45755132/118342247-6d274780-b51a-11eb-95cd-d07ff0fe14be.png)
