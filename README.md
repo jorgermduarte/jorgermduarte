@@ -25,7 +25,7 @@ const Duarte = {
 }
 ```
 
-### My Development Stack
+### My Mother Languages
 
 ![image](https://user-images.githubusercontent.com/45755132/118343014-35220380-b51e-11eb-9a6e-e30fc16dd354.png)
 ![image](https://user-images.githubusercontent.com/45755132/118343241-a7471800-b51f-11eb-89d4-99f86963b9c2.png)
