@@ -15,6 +15,8 @@
 
 <table>
   <tr>Main Stack</tr>
-  <td>![image](https://user-images.githubusercontent.com/45755132/118342247-6d274780-b51a-11eb-95cd-d07ff0fe14be.png)</td>
+  <td> 
+    ![image](https://user-images.githubusercontent.com/45755132/118342273-91832400-b51a-11eb-8faa-7ccd9bd4f9d3.png)
+  </td>
 </table>
 
