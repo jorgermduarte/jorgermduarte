@@ -5,7 +5,6 @@
 ### A little about me ..
 
 <img src="https://media.giphy.com/media/YZNPN0aYUaajdyFD14/giphy.gif" width="300" align="right">
-<img src="https://user-images.githubusercontent.com/45755132/118344464-fbed9180-b525-11eb-9b66-deca73c6dabf.png" width="300" align="right">
 
 ```javascript
 const Duarte = {
