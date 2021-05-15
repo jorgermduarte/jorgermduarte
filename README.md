@@ -4,11 +4,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-annu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgermduarte/)](https://www.linkedin.com/in/jorgermduarte/) [![Gmail Badge](https://img.shields.io/badge/-jorge_duarte@outlook.pt-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorge_duarte@outlook.pt)](mailto:jorge_duarte@outlook.pt)
 <br/>
 
-##### A little more about me...  
+##### A little knowledge about me
 
 ```javascript
 const Duarte = {
-  Description : [Leader, Optimistic, 
+  Description : [
+                Leader, Optimistic, 
                 Tech enthusiast  
                 and a lot more ],
   Education : 
