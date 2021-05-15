@@ -6,7 +6,7 @@
 
 ### A little about me ..
 
-<img src="https://media.giphy.com/media/YZNPN0aYUaajdyFD14/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/YZNPN0aYUaajdyFD14/giphy.gif" width="300" align="right">
 
 
 ```javascript
