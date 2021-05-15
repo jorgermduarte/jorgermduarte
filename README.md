@@ -28,6 +28,8 @@ const Duarte = {
 }
 ```
 
+<img src="![image](https://user-images.githubusercontent.com/45755132/118344464-fbed9180-b525-11eb-9b66-deca73c6dabf.png)" width="300" alight="right">
+
 ### My Mother Languages
 
 <p align="right">Feta é feta!</p>
