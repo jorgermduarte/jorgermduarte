@@ -30,13 +30,14 @@ const Duarte = {
 
 ### My Mother Languages
 
+<img src="https://media.giphy.com/media/blSTtZehjAZ8I/giphy.gif" width="300" align="right">
+
 ![image](https://user-images.githubusercontent.com/45755132/118343014-35220380-b51e-11eb-9a6e-e30fc16dd354.png)
 ![image](https://user-images.githubusercontent.com/45755132/118343241-a7471800-b51f-11eb-89d4-99f86963b9c2.png)
 ![image](https://user-images.githubusercontent.com/45755132/118343152-20923b00-b51f-11eb-80dc-46468de9096b.png)
 ![image](https://user-images.githubusercontent.com/45755132/118343054-7f0ae980-b51e-11eb-8598-d7535bcddcc7.png)
 ![image](https://user-images.githubusercontent.com/45755132/118343080-a95ca700-b51e-11eb-89cd-e5272e5e1219.png)
 
-<img src="https://media.giphy.com/media/blSTtZehjAZ8I/giphy.gif" width="300" align="right">
 
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=jorgermduarte&theme=radical&show_icons=true" alt="Duarte Github Stats" />
