@@ -5,20 +5,20 @@
 
 ```javascript
 const Duarte = {
-  Description : [
+  description : [
               'Optimistic',
               'Tech enthusiast',
               'Knowledge hunter',
               'and a lot more'
   ],
-  Education : [ 
+  education : [ 
                 { 
                 college: 'Universidade de Aveiro',
                 year : '2016-2019',
                 course: 'Software Developer' 
                 }
   ],
-  Experience : [
+  experience : [
               'Team Leader at BoldApps LDA', 
               'Full Stack Developer at Edubox SA', 
               'Backend Developer at SpyFly',
