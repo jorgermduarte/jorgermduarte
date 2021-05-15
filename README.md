@@ -32,6 +32,8 @@ const Duarte = {
 ![image](https://user-images.githubusercontent.com/45755132/118343025-54209580-b51e-11eb-9b90-48306d2f7580.png)
 ![image](https://user-images.githubusercontent.com/45755132/118343037-6ac6ec80-b51e-11eb-8dc4-6f9941438782.png)
 ![image](https://user-images.githubusercontent.com/45755132/118343054-7f0ae980-b51e-11eb-8598-d7535bcddcc7.png)
+![image](https://user-images.githubusercontent.com/45755132/118343080-a95ca700-b51e-11eb-89cd-e5272e5e1219.png)
+
 
 
 
