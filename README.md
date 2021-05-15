@@ -7,7 +7,12 @@
 
 ```javascript
 const Duarte = {
-  Description : [ Leader, Optimistic, Tech enthusiast and a lot more ],
+  Description : [
+            'Optimistic',
+            'Tech enthusiast',
+            'Knowledge hunter',
+            'and a lot more'
+            ],
   Education : [ 
            { College: 'Universidade de Aveiro', Year : '2016-2019', course: 'Software Developer' },
            ],
