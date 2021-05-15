@@ -1,10 +1,3 @@
-### Hi there 👋
-
-[![linkedin badge](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/jorge867/)
-[![Personal Website](https://img.shields.io/badge/-View%20Website-critical)](https://jorgeduarte.pt/)
-
-
-
 <h3> < Hello world, I'm <a href="https://jorgeduarte.pt/" target="_blank"> Jorge Duarte</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img  align='right' src="https://user-images.githubusercontent.com/43414928/113603231-5101d200-9661-11eb-9dcf-93d0401a7287.png" width="300px"> </h3>
 
 
@@ -14,21 +7,21 @@
 ##### A little more about me...  
 
 ```javascript
-const Annu = {
-  Pronouns: "she" | "her",
-  Description : [Passionate, Optimistic, 
-                Bibliophile, Tech enthusiast  
+const Duarte = {
+  Description : [Leader, Optimistic, 
+                Tech enthusiast  
                 and a lot more ],
   Education : 
            [ 
-           { Collge: Govt Model engineering college, 
-             Year :2018-22  }, 
-           { School : Campion School,  
-              Year : 2016-18 } 
+           { College: Universidade de Aveiro, 
+             Year :2016-2019  }
            ],
- Experience : ['Intern @ Twitter', 
-            'Backend developer at StorFront ', 
-            'React developer at TGH Technologies ' ]
+ Experience : [
+            'Team Leader at BoldApps LDA', 
+            'Full Stack Developer at Edubox SA', 
+            'Backend Developer at SpyFly',
+            'Trainee at Prologica',
+            ]
 }
 ```
 
