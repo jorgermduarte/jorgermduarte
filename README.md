@@ -12,11 +12,7 @@
 
 
 - 🤝 I’m looking to collaborate in any inspiring project that catches my interest.
-
-<table>
-  <tr>Main Stack</tr>
-  <td> 
-    ![image](https://user-images.githubusercontent.com/45755132/118342273-91832400-b51a-11eb-8faa-7ccd9bd4f9d3.png)
-  </td>
-</table>
+<div style="width:40%">
+  ![image](https://user-images.githubusercontent.com/45755132/118342273-91832400-b51a-11eb-8faa-7ccd9bd4f9d3.png)
+</div>
 
