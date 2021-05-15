@@ -26,11 +26,10 @@ const Duarte = {
 }
 ```
 
-### :computer: My mother languages
-* Front-end development : Bootstrap, EJS, Razor, ASPX, Blazor
-* Backend development : .NET Framework, .NET Core, Node.js
-* Devops: Jenkins, Azure
-* SysAdmin : Windows Server, Linux
+### :computer: My Stack
+
+![image](https://user-images.githubusercontent.com/45755132/118343014-35220380-b51e-11eb-9a6e-e30fc16dd354.png)
+
 
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=jorgermduarte&theme=radical&show_icons=true" alt="Duarte Github Stats" />
