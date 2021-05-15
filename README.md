@@ -1,6 +1,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Duarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgermduarte/)](https://www.linkedin.com/in/jorgermduarte/)
 [![Gmail Badge](https://img.shields.io/badge/-jorge_duarte@outlook.pt-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorge_duarte@outlook.pt)](mailto:jorge_duarte@outlook.pt)
 
+![image](https://user-images.githubusercontent.com/45755132/118343360-6dc2dc80-b520-11eb-9950-efe2e77bf005.png)
+
+
 ### A little about me ..
 
 ```javascript
