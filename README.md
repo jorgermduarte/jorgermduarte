@@ -10,20 +10,18 @@ const Duarte = {
               'Tech enthusiast',
               'Knowledge hunter',
               'and a lot more'
-  ],
-  education : [ 
-                { 
+              ],
+  education : [{ 
                 college: 'Universidade de Aveiro',
-                year : '2016-2019',
+                year : '2015-2018',
                 course: 'Software Developer' 
-                }
-  ],
+                }],
   experience : [
               'Team Leader at BoldApps LDA', 
               'Full Stack Developer at Edubox SA', 
               'Backend Developer at SpyFly',
               'Trainee at Prologica',
-  ]
+              ]
 }
 ```
 
