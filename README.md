@@ -15,7 +15,7 @@ const Duarte = {
                 college: 'Universidade de Aveiro',
                 year : '2015-2018',
                 course: 'Software Developer' 
-                }],
+              }],
   experience : [
               'Team Leader at BoldApps LDA', 
               'Full Stack Developer at Edubox SA', 
