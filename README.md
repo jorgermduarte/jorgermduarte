@@ -1,8 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Duarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgermduarte/)](https://www.linkedin.com/in/jorgermduarte/)
 [![Gmail Badge](https://img.shields.io/badge/-jorge_duarte@outlook.pt-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorge_duarte@outlook.pt)](mailto:jorge_duarte@outlook.pt)
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2.bp.blogspot.com%2F-sRMin-ITTJ4%2FV5kI9qx7wmI%2FAAAAAAABpQc%2FojTilClrsIwXZpsgRWQeEkHGJUMuaVoFQCLcB%2Fs1600%2Ffunny-cat-gifs-217-06.gif" width:"200">
-
+<img src="https://media.giphy.com/media/U7c2TesYruxCiw11qK/giphy.gif" width="300">
 
 ### A little about me ..
 
