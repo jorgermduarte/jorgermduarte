@@ -3,7 +3,11 @@
 
 
 
+
 ### A little about me ..
+
+<img src="https://media.giphy.com/media/YZNPN0aYUaajdyFD14/giphy.gif" width="300">
+
 
 ```javascript
 const Duarte = {
@@ -26,8 +30,6 @@ const Duarte = {
               ]
 }
 ```
-<img src="https://media.giphy.com/media/YZNPN0aYUaajdyFD14/giphy.gif" width="300">
-
 
 ### My Mother Languages
 
