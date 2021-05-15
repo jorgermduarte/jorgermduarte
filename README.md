@@ -35,8 +35,6 @@ const Duarte = {
 ![image](https://user-images.githubusercontent.com/45755132/118343080-a95ca700-b51e-11eb-89cd-e5272e5e1219.png)
 
 
-
-
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=jorgermduarte&theme=radical&show_icons=true" alt="Duarte Github Stats" />
 </p>
