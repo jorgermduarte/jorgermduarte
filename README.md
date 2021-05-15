@@ -26,9 +26,12 @@ const Duarte = {
 ```
 
 
-### :computer: Languages that I speak
+### :computer: My mother languages
 * Front-end development : Bootstrap, EJS, Razor, ASPX, Blazor
 * Backend development : .NET Framework, .NET Core, Node.js
+* Devops: Jenkins, Azure
+* SysAdmin : Windows Server 2016, Linux
+
 
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=jorgermduarte&theme=radical&show_icons=true" alt="Duarte Github Stats" />
