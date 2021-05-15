@@ -30,6 +30,7 @@ const Duarte = {
 
 ### My Mother Languages
 
+<p align="right">Feta é feta!</p>
 <img src="https://media.giphy.com/media/blSTtZehjAZ8I/giphy.gif" width="300" align="right">
 
 ![image](https://user-images.githubusercontent.com/45755132/118343014-35220380-b51e-11eb-9a6e-e30fc16dd354.png)
