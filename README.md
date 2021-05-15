@@ -2,11 +2,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-jorge_duarte@outlook.pt-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorge_duarte@outlook.pt)](mailto:jorge_duarte@outlook.pt)
 
 
-
-
 ### A little about me ..
 
 <img src="https://media.giphy.com/media/YZNPN0aYUaajdyFD14/giphy.gif" width="300" align="right">
+
 ```javascript
 const Duarte = {
   description : [
