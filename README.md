@@ -46,7 +46,6 @@ const Duarte = {
 
 ### Author Of
 
-<p><a href="https://jorgeduarte.pt">Personal Website</p>
-<p><a href="https://overwrite.pt">Overwrite</p>
-<p><a href="https://socialmile.io">Social Mile</p>
-<p><a href="https://atuamae.pt">Troll Domain Name</p>
+<p><a href="https://jorgeduarte.pt">Personal Website</a></p>
+<p><a href="https://overwrite.pt">Overwrite</a></p>
+<p><a href="https://socialmile.io">Social Mile</a></p>
