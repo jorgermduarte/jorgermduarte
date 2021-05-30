@@ -43,3 +43,10 @@ const Duarte = {
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=jorgermduarte&theme=radical&show_icons=true" alt="Duarte Github Stats" />
 </p>
+
+### Author Of
+
+<p><a href="https://jorgeduarte.pt">Personal Website</p>
+<p><a href="https://overwrite.pt">Overwrite</p>
+<p><a href="https://socialmile.pt">Social Mile</p>
+<p><a href="https://atuamae.pt">Troll Domain Name</p>
