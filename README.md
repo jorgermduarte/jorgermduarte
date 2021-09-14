@@ -20,6 +20,7 @@ const Duarte = {
                 course: 'Software Developer' 
               }],
   experience : [
+              'Software Engineer II at Talkdesk',
               'Team Leader at BoldApps LDA', 
               'Full Stack Developer at Edubox SA', 
               'Backend Developer at SpyFly',
