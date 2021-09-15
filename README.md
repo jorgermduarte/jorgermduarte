@@ -45,7 +45,3 @@ const Duarte = {
   <img src="https://github-readme-stats.vercel.app/api?username=jorgermduarte&theme=radical&show_icons=true" alt="Duarte Github Stats" />
 </p>
 
-### Author Of
-
-<p><a href="https://overwrite.pt">Overwrite</a></p>
-<p><a href="https://socialmile.io">Social Mile</a></p>
