@@ -85,4 +85,10 @@ const Duarte = {
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-F7F7F7?style=flat-square&logo=kubernetes)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-311C87?style=flat-square&logo=wordpress)
 
-![Jorgermduarte's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgermduarte&theme=prussian&show_icons=true)
+**Visit My Public Projects / Investigation**
+
+<a href="https://github.com/jorgermduarte-projects" target="_blank"> 
+  <img src="https://avatars.githubusercontent.com/u/87815577?s=200&v=4" style="width:50px;" >
+</a><a href="https://github.com/organizations/jorgermduarte-investigation" target="_blank"> 
+  <img src="https://avatars.githubusercontent.com/u/87815645?s=400&u=bc086eefdfc4e3bf2e07c960872d6fa1d99a5067&v=4" style="width:50px;" >
+</a>
