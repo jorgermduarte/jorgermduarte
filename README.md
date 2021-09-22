@@ -89,6 +89,6 @@ const Duarte = {
 
 <a href="https://github.com/jorgermduarte-projects" target="_blank"> 
   <img src="https://avatars.githubusercontent.com/u/87815577?s=200&v=4" style="width:50px;" >
-</a><a href="https://github.com/organizations/jorgermduarte-investigation" target="_blank"> 
+</a><a href="https://github.com/jorgermduarte-investigation" target="_blank"> 
   <img src="https://avatars.githubusercontent.com/u/87815645?s=400&u=bc086eefdfc4e3bf2e07c960872d6fa1d99a5067&v=4" style="width:50px;" >
 </a>
