@@ -71,6 +71,7 @@ const Duarte = {
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat-square&logo=swagger)
 ![Postman](https://img.shields.io/badge/-Postman-F7F7F7?style=flat-square&logo=postman)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-000000?style=flat-square&logo=gitlab)
+![Homebrew](https://img.shields.io/badge/-Homebrew-262717?style=flat-square&logo=homebrew)
 
 **In the future**
 
