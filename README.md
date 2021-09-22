@@ -66,17 +66,22 @@ const Duarte = {
 ![gRPC](https://img.shields.io/badge/-gRPC-black?style=flat-square&logo=grpc)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![EJS](https://img.shields.io/badge/-EJS-DDDDDD?style=flat-square&logo=ejs)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
+![Jira](https://img.shields.io/badge/-Jira-2580F7?style=flat-square&logo=jira)
+![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat-square&logo=swagger)
+![Postman](https://img.shields.io/badge/-Postman-F7F7F7?style=flat-square&logo=postman)
+![Gitlab](https://img.shields.io/badge/-Gitlab-000000?style=flat-square&logo=gitlab)
 
 **In the future**
 
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![Newrelic](https://img.shields.io/badge/-Newrelic-000000?style=flat-square&logo=newrelic)
-![Bugsnag](https://img.shields.io/badge/-Bugnag-000000?style=flat-square&logo=bugsnag)
-![Datadog](https://img.shields.io/badge/-Datadog-000000?style=flat-square&logo=datadog)
+![Newrelic](https://img.shields.io/badge/-Newrelic-48B5BE?style=flat-square&logo=newrelic)
+![Bugsnag](https://img.shields.io/badge/-Bugnag-37C2D9?style=flat-square&logo=bugsnag)
+![Datadog](https://img.shields.io/badge/-Datadog-612CA4?style=flat-square&logo=datadog)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-311C87?style=flat-square&logo=kubernetes)
-![Kafka](https://img.shields.io/badge/-Kafka-311C87?style=flat-square&logo=kafka)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-F7F7F7?style=flat-square&logo=kubernetes)
+![Wordpress](https://img.shields.io/badge/-Wordpress-311C87?style=flat-square&logo=wordpress)
 
 ![Jorgermduarte's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgermduarte&theme=prussian&show_icons=true)
