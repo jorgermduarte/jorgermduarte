@@ -74,4 +74,5 @@ const Duarte = {
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-311C87?style=flat-square&logo=kubernetes)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgermduarte&layout=compact)](https://github.com/jorgermduarte/github-readme-stats)
+
+![Jorgermduarte's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgermduarte&theme=prussian&show_icons=true)
