@@ -62,6 +62,10 @@ const Duarte = {
 ![Nginx](https://img.shields.io/badge/Nginx-232F3E?style=flat-square&logo=nginx)
 ![.NET](https://img.shields.io/badge/.NET-232F3E?style=flat-square&logo=dotnet)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![NPM](https://img.shields.io/badge/-NPM-orange?style=flat-square&logo=npm)
+![GRPC](https://img.shields.io/badge/-GRPC-black?style=flat-square&logo=grpc)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![EJS](https://img.shields.io/badge/-EJS-DDDDDD?style=flat-square&logo=ejs)
 
 **In the future**
 
@@ -73,6 +77,6 @@ const Duarte = {
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-311C87?style=flat-square&logo=kubernetes)
-
+![Kafka](https://img.shields.io/badge/-Kafka-311C87?style=flat-square&logo=kafka)
 
 ![Jorgermduarte's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgermduarte&theme=prussian&show_icons=true)
