@@ -73,6 +73,10 @@ const Duarte = {
 ![Gitlab](https://img.shields.io/badge/-Gitlab-000000?style=flat-square&logo=gitlab)
 ![Homebrew](https://img.shields.io/badge/-Homebrew-black?style=flat-square&logo=homebrew)
 ![Datadog](https://img.shields.io/badge/-Datadog-black?style=flat-square&logo=datadog)
+![Ionic](https://img.shields.io/badge/-Ionic-black?style=flat-square&logo=Ionic)
+![JQuery](https://img.shields.io/badge/-JQuery-black?style=flat-square&logo=JQuery)
+![Knockout.js](https://img.shields.io/badge/-Knockout.js-black?style=flat-square&logo=Knockout.js)
+![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=Socket.io)
 
 **In the future**
 
@@ -84,6 +88,8 @@ const Duarte = {
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat-square&logo=apollo-graphql)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=wordpress)
+
+
 
 **Visit My Public Projects / Investigation**
 
