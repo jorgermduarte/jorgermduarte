@@ -78,11 +78,12 @@ const Duarte = {
 ![Knockout.js](https://img.shields.io/badge/-Knockout.js-gray?style=flat-square&logo=Knockout.js)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-gray?style=flat-square&logo=Socket.io)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-gray?style=flat-square&logo=elasticsearch)
-![Newrelic](https://img.shields.io/badge/-Newrelic-gray?style=flat-square&logo=newrelic)
-![Bugsnag](https://img.shields.io/badge/-Bugnag-gray?style=flat-square&logo=bugsnag)
+
 
 **In the future**
 
+![Newrelic](https://img.shields.io/badge/-Newrelic-gray?style=flat-square&logo=newrelic)
+![Bugsnag](https://img.shields.io/badge/-Bugnag-gray?style=flat-square&logo=bugsnag)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-gray?style=flat-square&logo=Raspberry-Pi)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-gray?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-gray?style=flat-square&logo=apollo-graphql)
