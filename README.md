@@ -58,3 +58,7 @@
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgermduarte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+Feel free to know more about me at: https://jorgeduarte.pt
