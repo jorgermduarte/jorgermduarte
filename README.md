@@ -7,7 +7,7 @@
 
 - Currently stuying at ISEC - Instituto Superior de Engenharia de Coimbra
 - Working at Talkdesk as a Software Engineer
-- Started my journey with 13/14 years old creating metin2 servers and creating pages on blogspot.
+- Started my journey with 13/14 years old creating metin2 private servers and creating pages on blogspot.
 - Currently with 5 years enterprise level experience.
 - Interested in Artificial Intelligence and thinking about following this path.
 - Tech enthusiast
