@@ -1,44 +1,18 @@
 
 # [![Linkedin Badge](https://img.shields.io/badge/-Duarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgermduarte/)](https://www.linkedin.com/in/jorgermduarte/) [![Gmail Badge](https://img.shields.io/badge/-jorge_duarte@outlook.pt-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorge_duarte@outlook.pt)](mailto:jorge_duarte@outlook.pt)
 
-
-
-<p align="right">&nbsp;
-
-</p>
 <img src="https://media.giphy.com/media/blSTtZehjAZ8I/giphy.gif" width="300" align="right">
 
+### About me
 
-
-```javascript
-const Duarte = {
-  description : [
-              'Optimistic',
-              'Tech enthusiast',
-              'Knowledge hunter',
-              'and a lot more'
-              ],
-  education : [{ 
-                college: 'Instituto Superior de Engenharia de Coimbra',
-                year : '2021-Current',
-                course: 'Computer Science & Engineering' 
-              },{ 
-                college: 'Universidade de Aveiro',
-                year : '2015-2018',
-                course: 'Software Developer' 
-              }],
-  experience : [
-              'Software Engineer II at Talkdesk', //2021
-              'Team Leader & Backend Developer at BoldApps LDA', //2019
-              'Full Stack Developer at Edubox SA',  //2017
-              'Backend Developer at SpyFly', //2017
-              'Trainee at Prologica', // 2017 
-              ]
-}
-```
-
-
-**Tech Stack**
+- Currently stuying at ISEC - Instituto Superior de Engenharia de Coimbra
+- Working at Talkdesk as a Software Engineer
+- Started my journey with 13/14 years old creating metin2 servers and creating pages on blogspot.
+- Currently with 5 years enterprise level experience.
+- Interested in Artificial Intelligence and thinking about following this path.
+- Tech enthusiast
+- I prefer wine instead of beer.
+---
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-gray?style=flat-square&logo=Node.js)
@@ -78,24 +52,9 @@ const Duarte = {
 ![Knockout.js](https://img.shields.io/badge/-Knockout.js-gray?style=flat-square&logo=Knockout.js)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-gray?style=flat-square&logo=Socket.io)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-gray?style=flat-square&logo=elasticsearch)
-
-
-**In the future**
-
 ![Newrelic](https://img.shields.io/badge/-Newrelic-gray?style=flat-square&logo=newrelic)
 ![Bugsnag](https://img.shields.io/badge/-Bugnag-gray?style=flat-square&logo=bugsnag)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-gray?style=flat-square&logo=Raspberry-Pi)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-gray?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-gray?style=flat-square&logo=apollo-graphql)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-gray?style=flat-square&logo=kubernetes)
-![Wordpress](https://img.shields.io/badge/-Wordpress-gray?style=flat-square&logo=wordpress)
 
-
-
-**Visit My Public Projects / Investigation**
-
-<a href="https://github.com/jorgermduarte-projects" target="_blank"> 
-  <img src="https://avatars.githubusercontent.com/u/87815577?s=200&v=4" style="width:50px;" >
-</a><a href="https://github.com/jorgermduarte-investigation" target="_blank"> 
-  <img src="https://avatars.githubusercontent.com/u/87815645?s=400&u=bc086eefdfc4e3bf2e07c960872d6fa1d99a5067&v=4" style="width:50px;" >
-</a>
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgermduarte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
