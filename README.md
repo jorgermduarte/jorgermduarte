@@ -62,3 +62,4 @@
 ---
 
 Feel free to know more about me at: https://jorgeduarte.pt
+Discord Tech Group: https://discord.gg/QHgm9t9upT
