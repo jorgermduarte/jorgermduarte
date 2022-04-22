@@ -14,6 +14,7 @@
 - 🍷 I prefer red wine instead of beer 🤷🏽‍♂️
 ---
 
+<!--
 ![JavaScript](https://img.shields.io/badge/-JavaScript-E4E4E4?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-E4E4E4?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-Java-E4E4E4?style=flat-square&logo=java&logoColor=black)
@@ -55,11 +56,18 @@
 ![Newrelic](https://img.shields.io/badge/-Newrelic-E4E4E4?style=flat-square&logo=newrelic&logoColor=006600)
 ![Bugsnag](https://img.shields.io/badge/-Bugnag-E4E4E4?style=flat-square&logo=bugsnag&logoColor=blue)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E4E4E4?style=flat-square&logo=graphql&logoColor=purple)
+--> 
 
----
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgermduarte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
----
+
+<img alt="Activity Graph" src="https://stormy-sea-99716.herokuapp.com/graph?username=jorgermduarte&bg_color=0d111700&color=FFFFFF&line=1f6feb&point=FFFFFF&hide_border=true&pcs_light[bg_color]=ffffff&pcs_light[color]=24292F&pcs_light[line]=1f6feb&pcs_light[point]=24292F">
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=jorgermduarte&background=0d1117&border=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8b949e"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=jorgermduarte&row=1&theme=darkhub&no-frame=true"/>
+
 
 Feel free to know more about me at: https://jorgeduarte.pt
 > Discord Tech Group: https://discord.gg/QHgm9t9upT
