@@ -11,7 +11,6 @@
 - 📈 Currently with 5 years enterprise level experience
 - 🤯 Interested in Artificial Intelligence and thinking about following this path
 - ⚙️ Tech enthusiast
-- 🍷 I prefer red wine instead of beer 🤷🏽‍♂️
 ---
 
 <!--
