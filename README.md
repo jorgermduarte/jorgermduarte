@@ -1,7 +1,7 @@
 
 # [![Linkedin Badge](https://img.shields.io/badge/-Duarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgermduarte/)](https://www.linkedin.com/in/jorgermduarte/) [![Gmail Badge](https://img.shields.io/badge/-jorge_duarte@outlook.pt-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorge_duarte@outlook.pt)](mailto:jorge_duarte@outlook.pt)
 
-<img src="https://media.discordapp.net/attachments/338463197394632706/571821310842241062/morphin-190425182122.gif" width="300" align="right">
+<img src="https://media.giphy.com/media/xggannAWFPgwCMvRto/giphy.gif" width="300" align="right">
 
 ### About me
 
