@@ -10,7 +10,6 @@
 - ⛰️ Started my journey with 13/14 years old creating metin2 and minecraft private servers, blogs and simple web pages
 - 🤯 Started coding since high school (2012), it has been more than decade :D
 - 📈 Currently with 5+ years enterprise level experience 
-- 🤯 Following the artificial intelligence path
 - ⚙️ Tech enthusiast
 ---
 
