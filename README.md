@@ -22,9 +22,8 @@
   <img align='right' width='34%' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jorgermduarte&theme=dracula&langs_count=15' />
 </p>
 
-<p> 
+<p>Feel free to know more about me at: https://jorgeduarte.pt</p>
 
-_**Feel free to know more about me at: https://jorgeduarte.pt**_
+<p>Join Discord (Items4Crypto): https://discord.com/invite/kfMuxR4KRb</p>
+<p>Join Discord (JackOfAllTradesTech): https://discord.gg/QHgm9t9upT</p>
 
-
-</p>
