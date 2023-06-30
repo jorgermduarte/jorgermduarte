@@ -18,14 +18,13 @@
 </p>
 
 <p align=left>
-  <img align='left' width='28%' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jorgermduarte&theme=dracula&langs_count=15' />
-  <img algin='right' width='70%'  src="https://media.giphy.com/media/xggannAWFPgwCMvRto/giphy.gif" width="300" align="right">
+  <img algin='left' width='63%'  src="https://media.giphy.com/media/xggannAWFPgwCMvRto/giphy.gif" width="300">
+  <img align='right' width='34%' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jorgermduarte&theme=dracula&langs_count=15' />
 </p>
 
-&nbsp;
+<p> 
 
-> Feel free to know more about me at: https://jorgeduarte.pt
+_**Feel free to know more about me at: https://jorgeduarte.pt**_
 
-> Discord Tech Group: https://discord.gg/QHgm9t9upT
 
-> Discord Items4Crypto: https://discord.com/invite/kfMuxR4KRb
+</p>
