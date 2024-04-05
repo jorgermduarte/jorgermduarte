@@ -2,7 +2,8 @@
 
 - 🤯 Started really coding since high school (2012)
 - ⛰️ Started my journey with 12/13 years old creating metin2 and minecraft private servers, blogs and simple web pages
-- 📈 8+ years enterprise level experience 
+- 📈 8+ years enterprise level experience
+- Founder of the https://i4c.tf marketplace
 ---
 <img src='https://hacked-github-stat-trophies.vercel.app/?username=jorgermduarte&theme=dracula&column=11'>
 
