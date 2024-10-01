@@ -7,7 +7,8 @@
 ---
 
 <p>Spotify Integration everywhere: </p>
-<img align="left" src="https://52d7-2001-8a0-fef4-5f00-cddc-6228-7de7-cc37.ngrok-free.app/spotify/lastsong/31xadki24a65oayxsedj6rjqd4y4?ts=<?=time()?>" width="300" style="margin:25px" />
+<img src="https://52d7-2001-8a0-fef4-5f00-cddc-6228-7de7-cc37.ngrok-free.app/spotify/lastsong/31xadki24a65oayxsedj6rjqd4y4?unique_id=<?=time()?>" />
+
 
 
 <img src='https://hacked-github-stat-trophies.vercel.app/?username=jorgermduarte&theme=dracula&column=11'>
