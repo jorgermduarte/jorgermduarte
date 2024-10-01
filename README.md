@@ -13,7 +13,11 @@
 </p>
 
 <p align=left>
-  <img algin='left' width='63%'  src="https://media.giphy.com/media/xggannAWFPgwCMvRto/giphy.gif" width="300">
+  <img align='left' width='63%'  src="https://media.giphy.com/media/xggannAWFPgwCMvRto/giphy.gif" width="300">
   <img align='right' width='34%' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jorgermduarte&theme=dracula&langs_count=15' />
+</p>
+
+<p>
+  <img align="left" src="https://52d7-2001-8a0-fef4-5f00-cddc-6228-7de7-cc37.ngrok-free.app/spotify/lastsong/31xadki24a65oayxsedj6rjqd4y4" width="300" /> 
 </p>
 
