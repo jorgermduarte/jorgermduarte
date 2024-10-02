@@ -6,11 +6,6 @@
 - Founder of the https://i4c.tf marketplace
 ---
 
-<p>Spotify Integration everywhere: </p>
-<img src="https://52d7-2001-8a0-fef4-5f00-cddc-6228-7de7-cc37.ngrok-free.app/spotify/lastsong/31xadki24a65oayxsedj6rjqd4y4?unique_id=<?=time()?>" />
-
-
-
 <img src='https://hacked-github-stat-trophies.vercel.app/?username=jorgermduarte&theme=dracula&column=11'>
 <p align=left>
   <img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=jorgermduarte&count_private=true&show_icons=true&theme=dracula' />
