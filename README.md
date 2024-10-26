@@ -1,10 +1,5 @@
 ### About me
 
-- 🤯 Started really coding since high school (2012)
-- ⛰️ Started my journey with 12/13 years old creating metin2 and minecraft private servers, blogs and simple web pages
-- 📈 8+ years enterprise level experience
----
-
 <img src='https://hacked-github-stat-trophies.vercel.app/?username=jorgermduarte&theme=dracula&column=11'>
 <p align=left>
   <img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=jorgermduarte&count_private=true&show_icons=true&theme=dracula' />
