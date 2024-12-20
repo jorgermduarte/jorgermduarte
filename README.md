@@ -1,2 +1,12 @@
-![jack_of_all_trades](https://github.com/user-attachments/assets/70b2226c-d0cb-4f49-88cf-aabcd4f7c31e)
+# 👋 Hi there, 
 
+🚀 **About Me**  
+- 💻 Passionate developer focused on building scalable and clean systems.  
+- 🌱 Currently exploring **Quantum Computing**  
+- 🎮 A gamer at heart.
+
+---
+
+### 📬 **Get in Touch**
+- LinkedIn: [linkedin.com/in/jorgermduarte](https://www.linkedin.com/in/jorgermduarte/)
+---
